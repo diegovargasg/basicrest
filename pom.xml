@@ -10,8 +10,8 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.diegovargasg.basicrest</groupId>
-	<artifactId>demo</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<artifactId>basicrest</artifactId>
+	<version>1.0</version>
 	<name>demo</name>
 	<description>Basic rest spring boot</description>
 
